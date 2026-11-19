@@ -35,7 +35,7 @@
 		"has_dreams": false,
 		"world_state": ["Shuqing", "White"],
 
-		"auto_grab_batflies":false,
+		"auto_grab_batflies":true,
 		"food_min": 8,
 		"food_max": 9,
 		"diet": {
