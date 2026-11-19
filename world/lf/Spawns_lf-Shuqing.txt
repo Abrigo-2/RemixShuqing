@@ -1,0 +1,14 @@
+OFFSCREEN : 0-Vulture-2, 0-KingVulture, 0-Scavenger-9
+
+LF_C02 : 6-Caramel, 6-Strawberry, 3-CicadaA-2
+LF_D08 : 6-Mimic-{13}, 2-Mimic-{10}, 4-Mimic-{15}, 7-Cyan-1, 8-Cyan-2
+LF_E01 : 5-Caramel, 2-Salamander-{PreCycle}, 3-TentaclePlant-{PreCycle}
+LF_E04 : 3-Centiwing, 4-Strawberry{PreCycle}
+LF_D01 : 2-Cyan, 5-Caramel
+
+LINEAGE : LF_D03 : 2 : Cyan-0.5, Strawberry-0
+LINEAGE : LF_D03 : 3 : Strawberry-0.5, Cyan-0
+LINEAGE : LF_C02 : 6 : Cyan-0
+LINEAGE : LF_E02 : 3 : Cyan-0.5, Strawberry-0.3, Red-0
+LINEAGE : LF_E04 : 5 : Caramel-0.3, Strawberry-0.6, Red-0
+LINEAGE : LF_F02 : 4 : RedCentipede-0

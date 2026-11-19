@@ -1,0 +1,58 @@
+{
+	"id": "Shuqing",
+	"name": "The Shuqing",
+	"description": "Searching for the lost happiness, searching for your loved ones together...",
+	"features": {
+		"start_room": [ "LF_S03" ],
+		"custom_colors": [
+			{
+				"name": "Body",
+				"story": "171717"
+			},
+			{
+				"name": "Eyes",
+				"story": "04FDDD",
+				"arena": ["FFFFFF","FFDC63","FF5353","7F37DB"]
+			},
+			{
+				"name": "Spot",
+				"story": "04FDDD",
+				"arena": ["FFFFFF","FFDC63","FF5353","7F37DB"]
+			}
+		],
+		"alignments": {
+		 	"Lizards": { "like": 0.25},
+		 	"Scavengers": { "like": 0.5}
+		},
+		
+		"the_mark": true,
+		"select_menu_scene": "slugcat_Shuqing",
+		"select_menu_scene_ascended": "ghost_Shuqing",
+		"sleep_scene": "sleep_Shuqing",
+		"title_card": "Title_Card_Shuqing",
+
+
+		"has_dreams": false,
+		"world_state": ["Shuqing", "White"],
+
+		"auto_grab_batflies":false,
+		"food_min": 8,
+		"food_max": 9,
+		"diet": {
+			"base": "Artificer",
+
+			"corpses":0.66,
+			"plants": 0.5,
+			"overrides": {
+				"GooieDuck": 1.0,
+				"Fly":0.5,
+			}
+		},
+
+		"throw_skill": 1.1,
+		"can_maul": true,
+		"maul_damage": 0.66,
+
+		"weight":[1.15, 0.7],
+	}
+}

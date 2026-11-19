@@ -1,0 +1,13 @@
+{
+    "id": "abrigo2.shuqingremix",
+    "name": "Shuqing Remix!",
+    "version": "1.0",
+    "target_game_version": "v1.11.8",
+    "authors": "abrigo2",
+    "description": "Adds a more telling exhaustion state, an in-game tutorial and a custom world state to the Shuqing campaign!",
+    "requirements": [ "Shuqing", "moreslugcats", "southwest exit", "crs"],
+    "requirements_names": ["Shuqing", "More Slugcats Expansion", "Southwest Exit", "Custom Regions Support"],
+    "priorities": [],
+    "tags": [ "Custom Slugcat", "Music" ],
+    "checksum_override_version": false
+}
