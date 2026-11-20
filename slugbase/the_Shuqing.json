@@ -34,6 +34,8 @@
 
 		"has_dreams": false,
 		"world_state": ["Shuqing", "White"],
+		"cycle_length_min": 8.2,
+		"cycle_length_max": 14.1,
 
 		"auto_grab_batflies":true,
 		"food_min": 7,
@@ -49,6 +51,7 @@
 
 				"ZoopLizard":1.0,
 				"BlueLizard":0.4,
+				"CyanLizard":0,
 			}
 		},
 

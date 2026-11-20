@@ -20,11 +20,8 @@ RWS_ven7 : 3-BlackLizard
 RWS_ven11 : 5-BlackLizard-2
 RWS_ven11 : 6-BlackLizard
 
-RWS_pea3 : 3-SpitLizard-2
-RWS_pea5 : 3-ZoopLizard
-RWS_pea7 : 5-SpitLizard
-RWS_pea7 : 6-EelLizard
-RWS_pea8 : 4-SpitLizard
+RWS_pea1 : 7-ZoopLizard
+// Connected to OE gate
 RWS_pea10 : 2-SpitLizard
 RWS_pea10 : 3-EelLizard-{Mean:-0.3} 
 RWS_pea10 : 4-EelLizard-{Mean:-0.3} 
@@ -33,23 +30,38 @@ RWS_pea11 : 10-ZoopLizard
 RWS_pea11 : 8-ZoopLizard
 RWS_pea12 : 5-BlueLizard-{Mean:1.0} 
 RWS_pea12 : 4-ZoopLizard-{Mean:-0.3} 
+// Connected to RWS_OF
+RWS_pea3 : 2-CyanLizard
+RWS_pea3 : 3-SpitLizard
+RWS_pea5 : 2-CyanLizard
+RWS_pea5 : 3-CyanLizard
+RWS_pea7 : 5-SpitLizard
+RWS_pea7 : 6-EelLizard
 
 RWS_of3 : 3-CyanLizard
-RWS_of7 : 6-ZoopLizard-2
-RWS_of8 : 3-ZoopLizard-4
+RWS_of7 : 4-ZoopLizard
+RWS_of7 : 5-ZoopLizard, 4-SmallCentipede-{AlternateForm}-2
+RWS_of8 : 3-ZoopLizard-2
 RWS_of12 : 7-CyanLizard
 RWS_of14 : 3-ZoopLizard-2
 RWS_of15 : 3-ZoopLizard
 RWS_of15 : 4-CyanLizard
 RWS_of15 : 5-EelLizard-2
 
-RWS_SW1 : 6-SpitLizard
-RWS_SW1 : 9-EelLizard-2
-RWS_SA1 : 4-SpitLizard
-RWS_SA6 : 2-EelLizard
-RWS_SA6 : 3-CyanLizard
-RWS_SA8 : 3-YellowLizard-4
-RWS_SA9 : 4-EelLizard
+RWS_AME4 : 7-CyanLizard
+RWS_AME4 : 9-ZoopLizard
+RWS_AME5 : 8-CyanLizard
+RWS_AME6 : 5-EelLizard
+RWS_AME6 : 6-CyanLizard
+RWS_AME8 : 4-EelLizard
+RWS_AME9 : 7-EelLizard
+RWS_AME10 : 4-CyanLizard
+RWS_AME10 : 5-BlackLizard
+RWS_AME14 : 11-EelLizard
+RWS_AME16 : 7-EelLizard
+RWS_AME17 : 6-SpitLizard
+RWS_AME17 : 9-SpitLizard
+RWS_AME19 : 3-EelLizard
 
 RWS_AU2 : 7-EelLizard
 RWS_AU6.2 : 4-ZoopLizard-2
@@ -84,6 +96,14 @@ RWS_AU61 : 5-WhiteLizard
 RWS_AU65 : 2-YellowLizard-2
 RWS_AU65 : 5-YellowLizard-3
 
+RWS_SW1 : 6-SpitLizard
+RWS_SW1 : 9-EelLizard-2
+RWS_SA1 : 4-SpitLizard
+RWS_SA6 : 2-EelLizard
+RWS_SA6 : 3-CyanLizard
+RWS_SA8 : 3-YellowLizard-4
+RWS_SA9 : 4-EelLizard
+
 RWS_AS1 : 5-ZoopLizard
 RWS_AS3 : 7-ZoopLizard
 RWS_AS4 : 3-SpitLizard
@@ -96,21 +116,6 @@ RWS_AS14 : 8-RedLizard
 RWS_AS15 : 8-WhiteLizard
 RWS_AS15 : 9-ZoopLizard-2
 RWS_AS15 : 10-SpitLizard
-
-RWS_AME4 : 7-CyanLizard
-RWS_AME4 : 9-ZoopLizard
-RWS_AME5 : 8-CyanLizard
-RWS_AME6 : 5-EelLizard
-RWS_AME6 : 6-CyanLizard
-RWS_AME8 : 4-EelLizard
-RWS_AME9 : 7-EelLizard
-RWS_AME10 : 4-CyanLizard
-RWS_AME10 : 5-BlackLizard
-RWS_AME14 : 11-EelLizard
-RWS_AME16 : 7-EelLizard
-RWS_AME17 : 6-ZoopLizard-2
-RWS_AME17 : 9-SpitLizard
-RWS_AME19 : 3-EelLizard
 
 RWS_riv1 : 3-SpitLizard
 RWS_riv1 : 4-RedLizard
@@ -155,10 +160,7 @@ RWS_ven12 : 5-SmallCentipede-2
 RWS_ven12 : 6-BigSpider
 RWS_ven12 : 6-Spider-6
 
-RWS_pea1 : 7-SmallNeedleWorm
-RWS_pea4 : 2-Cicada-3
-RWS_pea5 : 2-SmallNeedleWorm-2
-RWS_pea6 : 3-Centiwing-2
+// Connected to OE gate
 RWS_pea9 : 2-Centiwing-2
 RWS_pea9 : 3-Centipede
 RWS_pea9 : 4-Centiwing
@@ -168,36 +170,62 @@ RWS_pea12 : 5-BlueLizard
 RWS_pea12 : 3-Centiwing-3
 RWS_pea12 : 6-TentaclePlant
 RWS_pea13 : 4-SmallCentipede-3
+// Connected to RWS_OF
+RWS_pea4 : 2-Cicada-5
+RWS_pea6 : 3-Centiwing-2
+RWS_pea8 : 4-SmallCentipede-{AlternateForm}-2
 
-RWS_of2 : 2-CicadaA
-RWS_of2 : 3-CicadaB
+RWS_of2 : 2-CicadaA-2
+RWS_of2 : 3-CicadaB-2
 RWS_of5 : 4-SmallCentipede-{AlternateForm}
 RWS_of6 : 6-Centiwing-2
 RWS_of6 : 7-SmallCentipede-{AlternateForm}-2
-RWS_of7 : 4-SmallCentipede-{AlternateForm}
-RWS_of10 : 2-Leech-3
+//RWS_of10 : 2-Leech-3
 RWS_of11 : 4-Centiwing-2
 RWS_of12 : 6-PoleMimic
 RWS_of12 : 9-BigNeedleWorm, 9-SmallNeedleWorm-3
 
+RWS_AME3 : 2-SmallCentipede-{AlternateForm}-3
+RWS_AME4 : 6-SmallCentipede-{AlternateForm}-3
+RWS_AME5 : 7-Centiwing-2
+RWS_AME5 : 9-Spider-8
+RWS_AME5 : 10-SmallCentipede-2
+RWS_AME6 : 3-EelLizard-2
+RWS_AME6 : 4-Leech-3
+RWS_AME8 : 5-TentaclePlant
+RWS_AME8 : 6-Spider-3
+RWS_AME9 : 4-SmallCentipede-{AlternateForm}-2
+RWS_AME9 : 6-SmallCentipede-{AlternateForm}
+RWS_AME10 : 2-SmallCentipede-{AlternateForm}-2
+RWS_AME10 : 3-SmallCentipede-{AlternateForm}
+//RWS_AME11 : 3-SmallCentipede-{AlternateForm}-2
+RWS_AME14 : 6-Spider-3
+RWS_AME14 : 10-TentaclePlant
+RWS_AME17 : 5-PoleMimic
+RWS_AME18 : 4-Centiwing-2
+RWS_AME19 : 2-Centiwing-2
+RWS_AME19 : 4-TentaclePlant
+
+// Connected to Ancient Channel
 RWS_AU1 : 3-Hazer
-RWS_AU1 : 5-Leech-2
+//RWS_AU1 : 5-Leech-2 // Don't want danger so the threat theme gets enough time to restart.
 RWS_AU1 : 6-Hazer
-RWS_AU2 : 3-SmallCentipede-{AlternateForm}-3
+RWS_AU2 : 3-SmallCentipede-{AlternateForm}-2
 RWS_AU2 : 4-TentaclePlant
 RWS_AU2 : 5-TentaclePlant
+
 RWS_AU8 : 3-Cicada-4
 RWS_AU9 : 3-Scavenger-2
+RWS_AU10 : 4-SmallCentipede-{AlternateForm}
 RWS_AU15 : 2-Scavenger-3
 RWS_AU17 : 4-BigNeedleWorm
 RWS_AU17 : 5-SmallNeedleWorm-4
 RWS_AU21 : 4-Scavenger
-RWS_AU23 : 7-SmallCentipede-{AlternateForm}-2
-RWS_AU10 : 4-SmallCentipede-{AlternateForm}
+RWS_AU23 : 7-SmallCentipede-{AlternateForm}
 RWS_AU28 : 6-SmallCentipede-{AlternateForm}-2
 RWS_AU25 : 5-Scavenger-6
-RWS_AU25 : 6-SmallCentipede-{AlternateForm}-2
-RWS_AU35 : 3-SmallCentipede-{AlternateForm}-2
+RWS_AU25 : 6-SmallCentipede-{AlternateForm}
+RWS_AU35 : 3-SmallCentipede-{AlternateForm}
 RWS_AU35 : 5-SmallCentipede-{AlternateForm}
 RWS_AU35 : 6-SmallCentipede-{AlternateForm}
 RWS_AU38 : 3-SmallCentipede-{AlternateForm}-2
@@ -220,7 +248,6 @@ RWS_AU68 : 2-SmallCentipede-{AlternateForm}-3
 
 RWS_SW1 : 5-TentaclePlant
 RWS_SW1 : 8-TentaclePlant
-
 RWS_SA4 : 4-BigNeedleWorm, 4-SmallNeedleWorm-4
 RWS_SA7 : 3-SmallCentipede-2, 3-Spider-2
 
@@ -239,27 +266,6 @@ RWS_AS14 : 7-SmallCentipede-{AlternateForm}-2
 RWS_AS15 : 6-Cicada-3
 RWS_AS16 : 3-SmallCentipede-{AlternateForm}-2
 RWS_AS16 : 4-Spider-8
-
-RWS_AME3 : 2-SmallCentipede-{AlternateForm}-3
-RWS_AME4 : 6-SmallCentipede-{AlternateForm}-3
-RWS_AME5 : 7-Centiwing-2
-RWS_AME5 : 9-Spider-8
-RWS_AME5 : 10-SmallCentipede-2
-RWS_AME6 : 3-EelLizard-2
-RWS_AME6 : 4-Leech-3
-RWS_AME8 : 5-TentaclePlant
-RWS_AME8 : 6-Spider-3
-RWS_AME9 : 4-SmallCentipede-{AlternateForm}-3
-RWS_AME9 : 6-SmallCentipede-{AlternateForm}
-RWS_AME10 : 2-SmallCentipede-{AlternateForm}-3
-RWS_AME10 : 3-SmallCentipede-{AlternateForm}-2
-RWS_AME11 : 3-SmallCentipede-{AlternateForm}-2
-RWS_AME14 : 6-Spider-3
-RWS_AME14 : 10-TentaclePlant
-RWS_AME17 : 5-PoleMimic
-RWS_AME18 : 4-Centiwing-2
-RWS_AME19 : 2-Centiwing-2
-RWS_AME19 : 4-TentaclePlant
 
 RWS_riv1 : 2-BigNeedleWorm, 2-SmallNeedleWorm-2
 RWS_riv2 : 3-SmallNeedleWorm-3
@@ -284,10 +290,10 @@ RWS_AU53 : 2-Eggbug, 2-WhiteLizard-2
 RWS_riv16 : 5-ZoopLizard-2, 5-Eggbug
 RWS_AME13 : 2-SmallCentipede-{AlternateForm}-3
 
-LINEAGE : RWS_train7 : 11 : Eggbug, NONE-0
-LINEAGE : RWS_AU20 : 3 : Eggbug-0.99, NONE-0
-LINEAGE : RWS_of7 : 5 : Eggbug-0.98, NONE-0
-LINEAGE : RWS_AU68 : 3 : Eggbug-0.97, SpitLizard-0
+LINEAGE : RWS_train7 : 11 : Eggbug-1, NONE-0
+LINEAGE : RWS_AU4 : 3 : Eggbug-0.98, NONE-0
+//LINEAGE : RWS_AU20 : 3 : Eggbug-0.98, NONE-0
+LINEAGE : RWS_AU68 : 3 : Eggbug-0.98, SpitLizard-0
 LINEAGE : RWS_AS8 : 5 : Eggbug-0.97, CyanLizard-0
 LINEAGE : RWS_AS15 : 7 : Eggbug-0.96, NONE-0
 LINEAGE : RWS_AU55 : 5 : Eggbug-0.96, ZoopLizard-0
