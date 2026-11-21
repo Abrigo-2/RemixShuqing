@@ -59,19 +59,19 @@ RWS_AME10 : 4-CyanLizard
 RWS_AME10 : 5-BlackLizard
 RWS_AME14 : 11-EelLizard
 RWS_AME16 : 7-EelLizard
-RWS_AME17 : 6-SpitLizard
-RWS_AME17 : 9-SpitLizard
+RWS_AME17 : 6-SpitLizard-{Mean:0.5} 
+RWS_AME17 : 9-SpitLizard-{Mean:0.5} 
 RWS_AME19 : 3-EelLizard
 
 RWS_AU2 : 7-EelLizard
 RWS_AU6.2 : 4-ZoopLizard-2
 RWS_AU6.3 : 5-CyanLizard
 RWS_AU17 : 2-WhiteLizard
-RWS_AU20 : 4-CyanLizard-3
+RWS_AU20 : 4-CyanLizard
 RWS_AU21 : 5-YellowLizard-3
 RWS_AU30 : 5-SpitLizard
 RWS_AU30 : 6-SpitLizard-2
-RWS_AU28 : 7-CyanLizard-2
+RWS_AU28 : 7-CyanLizard
 RWS_AU32 : 2-SpitLizard-2
 RWS_AU32 : 3-ZoopLizard
 RWS_AU34 : 4-WhiteLizard
