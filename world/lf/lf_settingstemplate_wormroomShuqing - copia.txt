@@ -1,0 +1,22 @@
+DangerType: None
+CeilingDrips: 0.5
+RainIntensity: 1
+RumbleIntensity: 1
+WaveSpeed: 0.4763111
+WaveLength: 0.9881555
+WaveAmplitude: 5.20047E-14
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+Clouds: 0.3043478
+Grime: 0.15
+BkgDroneVolume: 0.2569565
+BkgDroneNoThreatVolume: 1
+RandomItemDensity: 0.5
+RandomItemSpearChance: 0.2
+WaterReflectionAlpha: 1
+Palette: 19
+EffectColorB: 9
+FadePalette: 11, 0.16, 0.16, 0.16, 0.16, 0.16
+Effects: Flies-0.2065217-0-0, Fog-0.2608696-6-142, 
+AmbientSounds: OMNI><AM_ENV-LightWind.ogg><830.3689><650.401><0.3152174><0.823913, 
+Triggers: RegionBump<tA>event<tB>MusicEvent<eA>songName<eB>RW_14 - All Thats Left<eA>vol<eB>0.2456526<eA>prio<eB>0.5<eA>mxThrt<eB>1<eA>loop<eB>0<eA>droneTol<eB>0<eA>rooms<eB>7<eA>rest<eB>5<eA>fadeIn<eB>163.0435<eA>oneSongPerCycle<eB>0<eA>stopAtDeath<eB>0<eA>stopAtGate<eB>0<tA>multiUse<tB>0<tA>toCycle<tB>-1<tA>fromCycle<tB>0<tA>delay<tB>0<tA>panPos<tB>1027.559<tB>544.8085<tA>fireChance<tB>1<tA>entrance<tB>-1<tA>karma<tB>0<tA>slugcats<tB>, 

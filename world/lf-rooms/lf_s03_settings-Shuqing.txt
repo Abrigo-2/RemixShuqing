@@ -1,0 +1,8 @@
+WaveSpeed: 0.5306589
+WaveLength: 0.3468512
+WaveAmplitude: 0.04347826
+SecondWaveLength: 0.1666667
+SecondWaveAmplitude: 0
+WaterReflectionAlpha: 1
+PlacedObjects: BrokenShelterWaterLevel><318.348><341.7294><, 
+FadePalette: 21, 0.5760869

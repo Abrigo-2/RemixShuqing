@@ -34,6 +34,11 @@ Shuqing : HIDEROOM : LF_S04
 Shuqing : GATE_LF_SB : LF_C03 : DISCONNECTED
 Shuqing : LF_C03 : GATE_LF_SB : DISCONNECTED
 
+// im tooo laaazy to recolor all the other rooms sooo... bweeh.
+Shuqing : LF_C01 : LF_B02 : DISCONNECTED
+Shuqing : LF_B02 : LF_C01 : DISCONNECTED
+Shuqing : LF_D06 : LF_D02 : DISCONNECTED
+Shuqing : LF_D02 : LF_D06 : DISCONNECTED
 
 Shuqing : HIDEROOM : LF_M04
 Shuqing : HIDEROOM : LF_M05

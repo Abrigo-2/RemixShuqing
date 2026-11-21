@@ -1,1 +1,0 @@
-[ADD_5]Triggers: Spot<tA>event<tB>RoomSpecificTextMessage<tA>multiUse<tB>1<tA>toCycle<tB>2<tA>fromCycle<tB>0<tA>delay<tB>52<tA>panPos<tB>569.5983<tB>285.6196<tA>fireChance<tB>1<tA>entrance<tB>1<tA>karma<tB>0<tA>slugcats<tB>Shuqing<tA>pos<tB>465.5983<tB>226.6196<tA>handlePos<tB>-89.35535<tB>-4.355347,
