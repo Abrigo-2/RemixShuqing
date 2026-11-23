@@ -3,5 +3,11 @@ CONDITIONAL LINKS
 Shuqing : HIDEROOM : GATE_OE_RWS 
 Shuqing : GATE_OE_RWS : RWS_pea13 : DISCONNECTED
 Shuqing : RWS_pea13 : GATE_OE_RWS : DISCONNECTED
+
+// room leads nowhere and might get u killed coz of the centiwings so
+Shuqing : HIDEROOM : RWS_A2Gate
+Shuqing : RWS_A2Gate : RWS_AME18 : DISCONNECTED
+Shuqing : RWS_AME18 : RWS_A2Gate : DISCONNECTED
+
 END CONDITIONAL LINKS
 [ENDMERGE]
