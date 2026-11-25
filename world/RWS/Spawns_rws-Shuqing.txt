@@ -129,7 +129,9 @@ RWS_riv8 : 3-ZoopLizard-2
 RWS_riv16 : 8-WhiteLizard
 RWS_riv14 : 4-ZoopLizard
 RWS_riv17 : 5-CyanLizard
-RWS_riv10 : 3-ZoopLizard
+RWS_riv10 : 2-SpitLizard-{Mean:0.2}
+RWS_riv10 : 3-CyanLizard, SpitLizard-2-{Mean:0.8}
+RWS_riv10 : 4-SpitLizard-{Mean:0.8}, CyanLizard
 
 
 // Other critters...
@@ -274,7 +276,6 @@ RWS_riv4 : 3-SmallNeedleWorm-4
 RWS_riv4 : 4-JetFish
 RWS_riv6 : 3-SmallNeedleWorm-2
 RWS_riv8 : 2-BigNeedleWorm, 2-SmallNeedleWorm-4
-RWS_riv10 : 4-SmallNeedleWorm-2
 RWS_riv14 : 5-SmallNeedleWorm-4
 RWS_riv17 : 4-SmallCentipede-{AlternateForm}-2
 RWS_riv17 : 7-SmallCentipede-{AlternateForm}-3
@@ -313,4 +314,3 @@ RWS_SA10 : 5-BigSpider
 RWS_AS6 : 2-NONE
 RWS_AS14 : 4-NONE
 RWS_AU8 : 8-NONE
-RWS_riv10 : 2-NONE

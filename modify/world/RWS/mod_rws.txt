@@ -1,0 +1,5 @@
+// DEBUG ! DEBUG ! DEBUG ! DEBUG !
+Shuqing : RWS_FA1 : GATE_LF_RWS : DISCONNECTED
+Shuqing : GATE_LF_RWS : RWS_FA1 : RWS_riv2
+Shuqing : RWS_riv2 : RWS_riv1 : GATE_LF_RWS
+Shuqing : RWS_riv1 : RWS_riv2 : DISCONNECTED
